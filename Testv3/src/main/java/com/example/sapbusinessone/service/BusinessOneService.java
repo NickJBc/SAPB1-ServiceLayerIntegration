@@ -17,7 +17,7 @@ public class BusinessOneService {
 
     private static final Logger logger = LoggerFactory.getLogger(BusinessOneService.class);
 
-    private final String SERVICE_LAYER_URL = "http://10.31.22.68:8082/b1s/v1/";
+    private final String SERVICE_LAYER_URL = "YOUR URL HERE"; // add your SAP b1 Service layer url and port.
 
     private String sessionId;
     private String routeId;
